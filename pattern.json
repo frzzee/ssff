@@ -1,0 +1,22 @@
+[{
+		"info" : {
+			"dailyquest" : "345",
+			"game" : "Sky live",
+			"author" : "akaxel",
+			"version" : "0.26.1 (275000)"
+		},
+		"offsets" : {
+			"daily" : "0x29a378",
+			"cplayer" : "0x14828",
+			"maps" : "0x199788",
+			"flower" : "0xc685e0",
+			"emitter" : "0x3426e7c",
+			"gamespeed" : "0x2aa70",
+			"absorb" : "0x19bc8e0",
+			"wquest" : "0x19ae34",
+			"vcandle" : "0x2b1b100",
+			"emote" : "0xb1938",
+			"clothes" : "0xa0ae0c",
+			"candle" : "0x1ed8e38"
+		}
+	}]
